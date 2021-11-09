@@ -39,5 +39,7 @@ button {
 
 }
 button a {
-  tex
+  text-decoration: none;
+  color: goldenrod;
+  background-color: whitesmoke;
 }
