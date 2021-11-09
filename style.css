@@ -16,3 +16,7 @@
   border-radius: 5px;
   width: 100px;
 }
+header h1 {
+  display: flex;
+  justify-content: center;
+}
