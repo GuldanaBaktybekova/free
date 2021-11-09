@@ -30,3 +30,6 @@ main p {
   color: orangered;
   
 }
+img {
+  float: left;
+}
